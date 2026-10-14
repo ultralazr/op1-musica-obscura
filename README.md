@@ -222,7 +222,7 @@ A one-page PDF with the background and controls of all six: [musica-obscura-guid
 
 ## Install
 
-The modules are submitted to op1r: [pcppcp/op1r-src pull requests](https://github.com/pcppcp/op1r-src/pulls). Once a release includes them, use the
+The modules are submitted to op1r: [pcppcp/op1r-src#1](https://github.com/pcppcp/op1r-src/pull/1). Once a release includes them, use the
 [op1r web patcher](https://pcppcp.github.io/op1r/web/). Until then, build the PR branch with op1r-src's
 `make_firmware.py` (see its README).
 
